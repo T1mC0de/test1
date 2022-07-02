@@ -1,7 +1,9 @@
-# test1
+# It is my first repository
 
-## test2
+## In guide about creating _README file_ I found how to:
 
-### test3
+* Create different lists
+* __Make text in bold__
+* Add links and etc.
 
-#### test4
+Here is the guide: [Link](https://commonmark.org/help/)
